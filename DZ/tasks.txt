@@ -1,0 +1,6 @@
+[
+    {
+        "title": "изучать python",
+        "completed": false
+    }
+]
